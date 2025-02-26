@@ -1,5 +1,10 @@
 # Welcome to Sticker Smash 📸
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app), which runs on Android, iOS, and web. Users will be able to add stickers to photos and save the new photo to their device using this application.
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app), which runs on Android, iOS, and web. 
+
+## Features
+- [X] Add stickers to photos.
+- [X] Save the edited photo to your device.
+
 
 ## Get started
 
