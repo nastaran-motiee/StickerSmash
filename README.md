@@ -8,6 +8,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
+### Prerequisites
+To run the app, you need the following:
+- Expo Go installed on a physical device
+- Node.js (LTS version) installed
+- A macOS, Linux, or Windows (PowerShell and WSL2) with a terminal window open
+
 1. Install dependencies
 
    ```bash
